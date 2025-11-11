@@ -1,0 +1,3 @@
+# Hospital Management System - Python Backend Requirements
+# No external dependencies required - uses only Python standard library
+# Python 3.6+ required
